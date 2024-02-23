@@ -16,4 +16,4 @@ RTA: nos va a decir si es positivo o negativo
 
 ![Diagrama de flujo](diagrama.png "diagrama de flujo")
 
-" CONSTRUCCION
+#CONSTRUCCION
